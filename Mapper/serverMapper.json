@@ -1,0 +1,12 @@
+{
+"name": "name",
+"address": {
+        "city": "address.split(' ')[0]",
+        "state": "address.split(' ')[1]"
+    },
+    "email": "email",
+    "keyword1": "keywords[0]",
+    "keyword2": "keywords[1]",
+    "hobby": ["hobbies.primary","hobbies.secondary"]
+}
+
